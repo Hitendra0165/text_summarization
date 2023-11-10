@@ -13,4 +13,3 @@
 
 
 
-806838871675.dkr.ecr.ap-southeast-2.amazonaws.com/text_s
