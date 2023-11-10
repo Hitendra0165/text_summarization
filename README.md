@@ -8,3 +8,9 @@
 6.update the pipeline
 7.update the main.py
 8.update the app.py
+
+
+
+
+
+806838871675.dkr.ecr.ap-southeast-2.amazonaws.com/text_s
